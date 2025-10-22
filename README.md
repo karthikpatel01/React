@@ -1,4 +1,4 @@
-# React
+# React ⚛️ 
 Full React Notes from Day 1
 
 🧩 1. Introduction to React
