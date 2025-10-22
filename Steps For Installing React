@@ -1,0 +1,11 @@
+# 4. Setup and Installation — Creating a React App using Vite
+
+## What is Vite?
+- Vite is a modern build tool designed to provide a faster and simpler development experience.
+
+## Steps to Create a React App
+
+1. **Open a terminal or command prompt.**
+2. **Run the following command to create a new app:**
+   ```bash
+   npm create vite@latest
