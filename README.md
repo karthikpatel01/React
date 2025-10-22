@@ -3,7 +3,7 @@ Full React Notes from Day 1
 
 🧩 1. Introduction to React
 
-What is React?
+*What is React?*
 
 React is a JavaScript library for building user interfaces.
 
