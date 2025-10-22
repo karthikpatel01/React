@@ -30,3 +30,10 @@ Full React Notes from Day 1
 * Components make your code cleaner,reusable and easier to manage.
 * In React, we write components using JavaScript + Html(JSX).
 
+# *Adv & DisAdv
+| Advantages | Disadvantages |
+|------------|---------------|
+| High performance through Virtual DOM and efficient updates. | Frequent updates may lead to compatibility and learning curve issues. |
+| Reusable components save time and improve maintainability. | JSX syntax and Hooks can be confusing for beginners. |
+| Strong community support and large ecosystem of third-party tools (many add-ons, libraries, plugins can be integrated in the project). | Requires additional tools for routing and state management. |
+| Can be integrated with other libraries or frameworks easily. | Not SEO-friendly by default (requires server-side rendering for optimization). |
