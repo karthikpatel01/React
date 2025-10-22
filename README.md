@@ -5,7 +5,7 @@ Full React Notes from Day 1
 
 # **What is React?**
 
-*React is a JavaScript library for building fast  & interactive UI.
+* React is a JavaScript library for building fast  & interactive UI.
 
 -Developed by Facebook (Meta).
 
