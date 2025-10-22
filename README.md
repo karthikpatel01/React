@@ -5,18 +5,25 @@ Full React Notes from Day 1
 
 # **What is React?**
 
-React is a JavaScript library for building user interfaces.
+-React is a JavaScript library for building fast  & interactive UI.
 
-Developed by Facebook (Meta).
+-Developed by Facebook (Meta).
 
-It follows component-based architecture — the UI is divided into reusable pieces called components.
+-It follows component-based architecture — the UI is divided into reusable pieces called components.
 
-Why React?
+-React is the view layer of MVC application(Model View Controller).
 
-Fast rendering using Virtual DOM
+-It is component-based, which allows developers to create small, reusable pieces of code called components and combine them to create a full application. 
 
-Component reusability
 
-One-way data binding (easy to debug)
+# **Why React?**
 
->>Declarative – you describe the UI, React handles the rendering
+-Easy to learn for anyone who knows *JavaScripy.*
+-Fast rendering using Virtual DOM.
+
+-Component reusability
+
+-One-way data binding (easy to debug)
+
+-Used in many popular apps like *Facebook,Whatsapp Web and Instagram.*
+
